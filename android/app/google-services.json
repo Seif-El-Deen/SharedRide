@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130894663873",
+    "project_id": "pharmacy-management-syst-fc96a",
+    "storage_bucket": "pharmacy-management-syst-fc96a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130894663873:android:716e41ca6473b1a6890440",
+        "android_client_info": {
+          "package_name": "com.example.shared_ride_design_patterns"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130894663873-6v2h37iol4l7o4sgtpca8ju2p0dtq4jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkffTtckNGTrWw0O52PbvxkPbO4w1r7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130894663873-6v2h37iol4l7o4sgtpca8ju2p0dtq4jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
